@@ -14,6 +14,7 @@ function App() {
                         <Nav.Link href="#home">Home</Nav.Link>
                         <Nav.Link href="#gallery">Gallery</Nav.Link>
                         <Nav.Link href="#contact">Contact</Nav.Link>
+                        <Nav.Link href="/To-Do_List">To-Do List</Nav.Link>
                     </Nav>
                 </Container>
             </Navbar>
@@ -68,3 +69,4 @@ function App() {
 }
 
 export default App;
+
